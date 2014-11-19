@@ -6,10 +6,10 @@ cask :v1 => 'font-sanfrancisco' do
   homepage 'https://developer.apple.com/watchkit/'
   license :unknown
 
-  font 'System San Francisco Text Bold.ttf'
-  font 'System San Francisco Text Heavy.ttf'
-  font 'System San Francisco Text Medium.ttf'
-  font 'System San Francisco Text Regular.ttf'
-  font 'System San Francisco Text Thin.ttf'
-  font 'System San Francisco Display Ultralight.ttf'
+  font 'YosemiteSanFranciscoFont-master/System San Francisco Text Bold.ttf'
+  font 'YosemiteSanFranciscoFont-master/System San Francisco Text Heavy.ttf'
+  font 'YosemiteSanFranciscoFont-master/System San Francisco Text Medium.ttf'
+  font 'YosemiteSanFranciscoFont-master/System San Francisco Text Regular.ttf'
+  font 'YosemiteSanFranciscoFont-master/System San Francisco Text Thin.ttf'
+  font 'YosemiteSanFranciscoFont-master/System San Francisco Display Ultralight.ttf'
 end
