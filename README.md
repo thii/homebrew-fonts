@@ -10,5 +10,9 @@ Install `brew-cask` if you haven't done it yet.
     $ brew tap thii/fonts
     $ brew cask install font-sanfrancisco
 
+# Uninstall
+
+    $ brew cask uninstall font-sanfrancisco
+
 # License
 [MIT](http://thi.mit-license.org)
